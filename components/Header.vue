@@ -18,11 +18,11 @@
             <img
               class="md:h-20 md:w-20 h-16 w-16 dark:hidden"
               src="../public/img/h-logo.svg"
-              alt="Trader4 logo" />
+              alt="Azpays logo" />
             <img
               class="md:h-20 md:w-20 h-16 w-16 hidden dark:block"
-              src="../public/img/h-logo-dark.svg"
-              alt="Trader4 logo" />
+              src="../public/img/h-logo.svg"
+              alt="Azpays logo" />
             <!-- <span
               class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white"
             >
